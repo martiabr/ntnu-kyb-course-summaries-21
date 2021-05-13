@@ -1,4 +1,4 @@
-# kyb-summaries-21
+# Kyb summaries
 Summaries of varying quality for the following NTNU Cybernetics courses:
 
 - EXPHIL0004
